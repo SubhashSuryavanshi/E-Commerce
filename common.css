@@ -1,0 +1,21 @@
+.wrapper {
+  margin: 1% 5%;
+}
+.common-btn {
+  height: 63px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+  min-width: 50px;
+  color: #d19c97;
+  text-align: center;
+  cursor: pointer;
+}
+
+.common-btn span {
+  font-size: 16px;
+  font-weight: 800;
+}
+body {
+  font-family: "Poppins", "sans-serif";
+}
